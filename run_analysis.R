@@ -2,11 +2,15 @@ library(plyr)
 library(dplyr)
 library(reshape2)
 
-setwd("E:\\3_DATA SCIENCE SPECIALISATION\\GETTING AND CLEANING DATA\\Assignments\\Week3\\wearable")
+
 
 #### File Download ####
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(url = url , destfile="E:/3_DATA SCIENCE SPECIALISATION/GETTING AND CLEANING DATA/Assignments/Week3/wearable.zip")
+
+### Extracting and placing files in a new folder "wearable" ####
+
+setwd("E:\\3_DATA SCIENCE SPECIALISATION\\GETTING AND CLEANING DATA\\Assignments\\Week3\\wearable")
 
 #### File Loading ####
 
