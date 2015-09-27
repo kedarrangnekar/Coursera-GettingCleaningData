@@ -99,3 +99,6 @@ head(dataMelt)
 
 #### Recasting DataSet into Tidy-Data ####
 TidyData <- dcast(dataMelt,subject+activity_name~variable,mean)
+
+### Extracting Tidy Data ####
+write.table("./tidy_data.txt , row.names = FALSE) 
