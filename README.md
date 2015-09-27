@@ -25,5 +25,5 @@ In this repo you will find 2 files related to Wearable Computing Data used for t
     5. Final Tidy Data
           Used melt() to make "id","subject" and "activity_name" as ids
           Recast the data using dcast() with function argument "mean" to arrive 
-                at desired tidy data.
+                at desired tidy data. 
           
