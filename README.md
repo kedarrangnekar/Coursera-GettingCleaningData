@@ -2,10 +2,10 @@
 Repository for Getting and Cleaning Data Course in Data Science Specialisation
 
 In this repo you will find 2 files related to Wearable Computing Data used for the "Getting and Cleaning Data" course
-##* 1. R Script named "run_analysis.R"*
-##* 2. MetaData for the tidy data set named "CodeBook.md"*
+## 1. R Script named "run_analysis.R"
+## 2. MetaData for the tidy data set named "CodeBook.md"
 
-## Steps followed**
+## Steps followed
     1. Merging Train and Test Data
           Used read.table command to load the subject data and activity data file
           The actual data (561 domain variables) was loaded using read.table but with an argument sep = "" as read.fwf was very time consuming and not memory efficient
