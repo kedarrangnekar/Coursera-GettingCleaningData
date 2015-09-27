@@ -4,13 +4,13 @@ Data Dictionary for Wearable Computing Data..
          Identifier of the subject of analysis. Range [1,30]
 2. activity_name
          Name of the activity performed by the subject.
-            Values in the variable
-              i. LAYING
-             ii. SITTING
-              iii. STANDING
-              iv. WALKING
-              v. WALKING_DOWNSTAIRS
-              vi. WALKING_UPSTAIRS
+            Values in the variable  --------
+              ( i. LAYING
+               ii. SITTING
+               iii. STANDING
+               iv. WALKING
+               v. WALKING_DOWNSTAIRS
+               vi. WALKING_UPSTAIRS )
               
 3.  tBodyAcc-mean()-X --------
          Mean of Mean of Time Component of Accelerometer Raw Signal due to Body (X-Axis Reading) for each subject each activity
