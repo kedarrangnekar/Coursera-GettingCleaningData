@@ -1,4 +1,4 @@
-Data Dictionary for Wearable Computing Data..
+#Data Dictionary for Wearable Computing Data..
 
 1. subject
          Identifier of the subject of analysis. Range [1,30]
