@@ -20,7 +20,7 @@
          Mean of Mean of Time Component of Accelerometer Raw Signal due to Body (Z-Axis Reading)for each subject each activity
 6.  tGravityAcc-mean()-X --------
          Mean of Mean of Time Component of Accelerometer Raw Signal due to Gravity (X-Axis Reading)for each subject each activity
-7.  tGravityAcc-mean()-Y --------
+7.  tGravityAcc-mean()-Y ---------
          Mean of Mean of Time Component of Accelerometer Raw Signal due to Gravity (Y-Axis Reading)for each subject each activity
 8.  tGravityAcc-mean()-Z --------
          Mean of Mean of Time Component of Accelerometer Raw Signal due to Gravity (Z-Axis Reading)for each subject each activity
